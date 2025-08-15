@@ -39,9 +39,9 @@
 - **한 줄 소개**: 코린이지만 열정은 코른이입니다. 목표 달성을 다같이 이뤄가는 동료되길 진심으로 바랍니다. 반갑습니다~!
 
 ### 팀원: 이환진
-- **GitHub**: [@username](https://github.com/username)
-- **Email**: email@example.com
-- **한 줄 소개**: 간단한 자기소개를 작성해주세요
+- **GitHub**: [@stelaive](https://github.com/stelaive)
+- **Email**: jeanlee2001@naver.com
+- **한 줄 소개**: 아직 처음이라서 많이 부족합니다. 최선을 다해서 팀에 든든하고 도움이되는 팀원이 되겠습니다! 화이팅!
 
 ---
 
