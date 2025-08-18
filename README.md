@@ -19,9 +19,9 @@
 - **한 줄 소개**: 전공자지만 많이 부족해요! 잘부탁드립니다~~
 
 ### 팀원: 김도은
-- **GitHub**: [@username](https://github.com/username)
-- **Email**: email@example.com
-- **한 줄 소개**: 간단한 자기소개를 작성해주세요
+- **GitHub**: [@kimSummerrain](https://github.com/username)
+- **Email**: doeun457@gmail.com
+- **한 줄 소개**: 코린이입니다..
 
 ### 팀원: 진솔빈
 - **GitHub**: [@kenneth1107](https://github.com/kenneth1107)
