@@ -29,9 +29,9 @@
 - **한 줄 소개**: 아직 부족하지만, 꾸준히 끈덕지게 해내겠습니다.
 
 ### 팀원: 남혜린
-- **GitHub**: [@username](https://github.com/username)
-- **Email**: email@example.com
-- **한 줄 소개**: 간단한 자기소개를 작성해주세요
+- **GitHub**: [@nmhyrhn](https://github.com/nmhyrhn)
+- **Email**: gbs06193@gmail.com
+- **한 줄 소개**: 많이 부족하지만 팀원분들께 도움이 될 수 있도록 많이 노력하겠습니다.
 
 ### 팀원: 최형규
 - **GitHub**: [@qstory17](https://github.com/qstory17)
