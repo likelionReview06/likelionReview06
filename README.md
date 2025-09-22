@@ -52,7 +52,7 @@
 | 팀원 | 남혜린 | [@nmhyrhn](https://github.com/nmhyrhn)         | gbs06193@gmail.com     | 많이 부족하지만 팀원분들께 도움이 될 수 있도록 많이 노력하겠습니다.                                  |
 | 팀원 | 최형규 | [@qstory17](https://github.com/qstory17)       | chkoreakr@gmail.com    | 코린이지만 열정은 코른이입니다. 목표 달성을 다같이 이뤄가는 동료되길 진심으로 바랍니다. 반갑습니다~! |
 | 팀원 | 이환진 | [@stelaive](https://github.com/stelaive)       | jeanlee2001@naver.com  | 처음이라서 많이 부족합니다. 최선을 다해서 팀에 든든하고 도움이되는 팀원이 되겠습니다! 화이팅!        |
-| 팀원 | 이문주 | -                                              | -                      | 함께 성장하며 배움을 나누겠습니다.                                                                   |
+| 팀원 | 이문주 | -                                              | -                      | -                                                               |
 
 ## 🤝 Collaboration Principles
 
