@@ -1,10 +1,16 @@
-# 🦁 멋쟁이사자처럼 백엔드 19기 회고 6팀
-
-> 꾸준함과 열정으로 성장하는 백엔드 동료들의 기록
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,100:F43F5E&height=260&section=header&text=멋사%20백엔드%2019기%20회고%206팀&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Grow%20Together%20%F0%9F%A6%81&descAlign=60&descAlignY=60&animation=fadeIn" alt="멋쟁이사자처럼 백엔드 19기 회고 6팀" />
+</p>
 
 <div align="center">
-  <kbd>Back-end 19기</kbd> • <kbd>7 Members</kbd> • <kbd>Growth Mindset</kbd>
+  <img src="https://img.shields.io/badge/Back--end%2019%EA%B8%B0-F97316?style=for-the-badge&labelColor=1F2937" alt="Back-end 19기" />
+  <img src="https://img.shields.io/badge/7%20Members-F43F5E?style=for-the-badge&labelColor=1F2937" alt="7 Members" />
+  <img src="https://img.shields.io/badge/Growth%20Mindset-5B21B6?style=for-the-badge&labelColor=1F2937" alt="Growth Mindset" />
 </div>
+
+<p align="center">
+  꾸준함과 열정으로 성장하는 백엔드 동료들의 기록
+</p>
 
 ---
 
@@ -19,15 +25,21 @@
 
 ## 🌟 Team Snapshot
 
-- 부트캠프: 멋쟁이사자처럼 백엔드 부트캠프 19기
-- 팀명: 회고 6팀
-- 목표: 성실함과 꾸준함을 기반으로 함께 성장하기
-- 슬로건: "같이 가는 길이 결국 가장 빠른 길"
+| | |
+| --- | --- |
+| 🏫 **부트캠프** | 멋쟁이사자처럼 백엔드 부트캠프 19기 |
+| 🦁 **팀명** | 회고 6팀 |
+| 🎯 **목표** | 성실함과 꾸준함을 기반으로 함께 성장하기 |
+| 🗣️ **슬로건** | "같이 가는 길이 결국 가장 빠른 길" |
 
 ## ✨ About Us
 
 안녕하세요! 저희는 서로의 부족함을 채우며 한 걸음씩 성장하는 회고 6팀입니다.  
 각자의 배움과 경험을 솔직하게 나누고, 작은 성취도 함께 축하하며 더 멋진 백엔드 개발자가 되기 위해 노력하고 있어요.
+
+> 🤍 `Consistency` × `Collaboration` × `Curiosity`
+
+매일의 회고로 서로를 비추고, 다음 도약을 위한 발판을 함께 만들고 있습니다.
 
 ## 👥 Members
 
@@ -44,9 +56,9 @@
 
 ## 🤝 Collaboration Principles
 
-- 열린 마음으로 피드백을 주고받으며 함께 성장해요.
-- 매일의 꾸준함을 존중하고 서로의 성실함을 응원해요.
-- 문제를 해결할 때는 함께 고민하고, 해낸 순간은 모두의 기쁨으로 만들어요.
+- ✨ 열린 마음으로 피드백을 주고받으며 함께 성장해요.
+- 🔄 매일의 꾸준함을 존중하고 서로의 성실함을 응원해요.
+- 🏆 문제를 해결할 때는 함께 고민하고, 해낸 순간은 모두의 기쁨으로 만들어요.
 
 ## 🗂 Retrospective Archive
 
@@ -94,3 +106,7 @@
 ---
 
 > 🧡 회고로 연결되고, 성장으로 완성되는 팀이 되겠습니다!
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F73C8B,100:FDA403&height=140&section=footer&animation=twinkling" alt="감사합니다" />
+</p>
